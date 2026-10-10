@@ -1,0 +1,15 @@
+# Project virtual environment
+.venv/
+
+# Python-generated cache files
+__pycache__/
+*.py[cod]
+
+# macOS-generated files
+*DS_Store
+
+# Environment variables *nd API keys
+.env
+
+# Streamlit secr*ts
+.streamlit/secrets.toml
