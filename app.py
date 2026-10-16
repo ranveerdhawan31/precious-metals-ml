@@ -70,5 +70,5 @@ st.info(
 
 st.plotly_chart(
     performance_figure,
-    use_container_width=True,
+    width="stretch",
 )
